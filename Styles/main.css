@@ -1,0 +1,90 @@
+body {
+	background: #999;
+	color: white;
+	margin: 0px;
+}
+
+header {
+
+	border-radius: 0 0 5px 5px;
+	margin: 0px;
+	padding: 15px;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 15px;
+	display: inline;
+}
+
+nav ul img {
+	margin: 0px 40px 0px 0px;
+}
+
+nav ul li {
+	border-radius: 5px;
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav ul li a {
+	color: #999;
+}
+
+.myPanel {
+	border: 1px solid;
+	border-radius: 5px;
+	box-shadow: 0px 0px 2px #999;
+	margin: 3%;
+}
+
+.myPanel .heading {
+	background: #1EE17D;
+	border-radius: 5px 5px 0 0;
+	color: #66806B;
+	padding: 10px 20px;
+}
+
+.myPanel .heading2 {
+	background: #1EE17D;
+	border-radius: 0 0 5px 5px;
+	color: #66806B;
+	padding: 10px 20px;
+}
+
+
+.myPanel .body {
+	padding: 10px 20px;
+}
+
+.myPanel .body2 {
+	border-radius: 5px;
+	background: #E8E8E8;
+	padding: 10px 20px;
+}
+
+.myPanel .body3 {
+	border-radius: 5px 5px 0 0;
+	background: #989898;
+	padding: 10px 20px;
+}
+
+.row {
+	
+}
+
+.col {
+	background: #555;
+	color: white;
+	border-radius: 5px;
+	padding: 10px;
+	float: left;
+	margin: .5%;
+	width: 47%;
+}
+
+footer {
+	padding: 20px;
+	clear: both;
+	text-align: center;
+}
